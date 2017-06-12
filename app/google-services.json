@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "589452399036",
+    "firebase_url": "https://tuti-resep.firebaseio.com",
+    "project_id": "tuti-resep",
+    "storage_bucket": "tuti-resep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589452399036:android:6ccebf6b01a39925",
+        "android_client_info": {
+          "package_name": "tutiresep.tuti.resepmasak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589452399036-6fu6uu4u6hciai486hiiti74k54309lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQgD6n6xGisfKdJsDAYwVORsHO4X2msU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
